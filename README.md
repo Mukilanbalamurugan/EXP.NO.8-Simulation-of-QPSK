@@ -122,4 +122,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/baaddec1-65b1-4ff3-99e3-737b06e2bb3f)
 
 ## RESULT / CONCLUSIONS
-Thus QPSK modulation is implemented using Scilab code.
+Thus QPSK modulation is implemented using Python code.
